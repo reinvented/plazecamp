@@ -4,6 +4,4 @@ Coming to !PlazeCamp?  Please add a brief biographical note, perhaps including s
 
 === Peter Rukavina ===
 
-[http://ruk.ca/ Weblog] | [mailto:peter@rukavina.net Email]
-
-I'm a longtime Plazes user, and currently writing on the [http://blog.plazes.com Plazes weblog] as the ''Plazes User Advocate''.  I've been hacking together applications using various versions of the Plazes API for several years, and have [http://ruk.ca/w/index.php/Plazes a wiki page] where I've tried to document them all.
+I'm a longtime Plazes user, and currently writing on the [http://blog.plazes.com Plazes weblog] as the ''Plazes User Advocate''.  I've been hacking together applications using various versions of the Plazes API for several years, and have [http://ruk.ca/w/index.php/Plazes a wiki page] where I've tried to document them all. [http://ruk.ca/ Weblog] | [mailto:peter@rukavina.net Email]
