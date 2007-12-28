@@ -1,9 +1,9 @@
-#summary Where is PlazeCamp?
+#summary Where is PlazeCamp being held?
 
 !PlazeCamp is being held at [http://plazes.com/plazes/87873_plazes_hq Plazes HQ] on Monbijouplatz 5 in Berlin, Germany.
 
  * [http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=103587578283081695481.0004425919f716cdf04fa&z=17&om=1 Google Map]
 
-== How to Get There ==
+The space is large and bright, and there are areas for small group discussion.  Wifi and hard-wired Internet will be available to attendees.
 
 The [http://www.s-bahn-berlin.de/fahrplanundnetz/sbahnhof_anzeige.php?ID=68 Hackescher Markt] station is a short walk from Plazes HQ.
