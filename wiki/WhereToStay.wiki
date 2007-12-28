@@ -1,0 +1,5 @@
+#summary Hotels and other accommodations near Plazes HQ.
+
+== Hotels ==
+
+ * [http://www.luise-berlin.com/ Arte Luise Kunsthotel] ([http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=Luisenstra%C3%9Fe+19,+Mitte+10117+Berlin,+Berlin,+Berlin,+Germany&daddr=Monbijouplatz+5,+berlin,+germany&sll=37.0625,-95.677068&sspn=51.443116,80.771484&ie=UTF8&cd=1&z=16&om=1 directions])
