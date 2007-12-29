@@ -5,3 +5,7 @@ Coming to !PlazeCamp?  Please add a brief biographical note, perhaps including s
 === Peter Rukavina ===
 
 I'm a longtime Plazes user, and currently writing on the [http://blog.plazes.com Plazes weblog] as the ''Plazes User Advocate''.  I've been hacking together applications using various versions of the Plazes API for several years, and have [http://ruk.ca/w/index.php/Plazes a wiki page] where I've tried to document them all. [http://ruk.ca/ Weblog] | [mailto:peter@rukavina.net Email]
+
+=== pedro figueiredo ===
+
+i've been using plazes for a couple of years (reboot 7?) and meaning to write perl bindings for it. i actually got a working plazer a long time ago, but then the new api was announced, and the rest is history. i'd really like plazecamp to be *it*. i rant on [http://pfig.livejournal.com/ my livejournal].
