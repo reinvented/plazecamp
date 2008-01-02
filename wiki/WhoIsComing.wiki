@@ -9,3 +9,7 @@ I'm a longtime Plazes user, and currently writing on the [http://blog.plazes.com
 === pedro figueiredo ===
 
 i've been using plazes for a couple of years (reboot 7?) and meaning to write perl bindings for it. i actually got a working plazer a long time ago, but then the new api was announced, and the rest is history. i'd really like plazecamp to be *it*. i rant on [http://pfig.livejournal.com/ my livejournal].
+
+=== Lance Wicks ===
+
+I've used Plazes from relatively early on, intermittently at least. I did my first Plazes hack last year at HackdayLondon2007, a Plazes to NabazTag bunny PHP script. Recently wrote a quick hack to allow me to set my status via the [http://www/launchy.net/Launchy] application. I wrote it up on [http://www.lancewicks.com/blog/ my blog]. Hoping I won't the sole  English speaker attending PlazeCamp. :)
