@@ -1,9 +1,0 @@
-#summary The schedule for PlazeCamp.
-
-== Start Time ==
-
-I'd originally thought we would start at 9:00 a.m., but others have suggested a later start (11:00 a.m.?) might be a better idea.  We'll have to sort this out ASAP so people can make travel plans.
-
-== Agenda ==
-
-The tentative plan right now is for Tilmann to begin the proceedings with an overview of the Plazes object model and the new Plazes API.  After that, the floor is open: we can organize here in advance, or let things play out on the spot.
