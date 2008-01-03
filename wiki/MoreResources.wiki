@@ -2,4 +2,4 @@
 
 == Podcasts ==
 
- * [http://blog.plazes.com/?p=217 The Plazes Podcast, Episode Two] is all about the Plazes API and PlazeCamp.
+ * [http://blog.plazes.com/?p=217 The Plazes Podcast, Episode Two] is all about the Plazes API and !PlazeCamp.
