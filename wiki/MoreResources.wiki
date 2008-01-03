@@ -1,0 +1,5 @@
+#summary Links to additional resources about Plazes, the Plazes API and development tools.
+
+== Podcasts ==
+
+ * [http://blog.plazes.com/?p=217 The Plazes Podcast, Episode Two] is all about the Plazes API and PlazeCamp.
