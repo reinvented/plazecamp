@@ -13,3 +13,7 @@ i've been using plazes for a couple of years (reboot 7?) and meaning to write pe
 === Lance Wicks ===
 
 I've used Plazes from relatively early on, intermittently at least. I did my first Plazes hack last year at HackdayLondon2007, a Plazes to NabazTag bunny PHP script. Recently wrote a quick hack to allow me to set my status via the [http://www/launchy.net/Launchy] application. I wrote it up on [http://www.lancewicks.com/blog/ my blog]. Hoping I won't the sole  English speaker attending PlazeCamp. :)
+
+=== Henri Bergius ===
+
+I've been using Plazes as part of my geoweb infrastructure for a while now. In addition, I have integrated it with the [http://www.midgard-project.org/ Midgard] [http://en.wikipedia.org/wiki/GeoCMS GeoCMS], written a [http://downloads.maemo.org/product/OS2007/maemoplazer/ MaemoPlazer], plazer for Nokia's mobile Linux platform and contributed to the [http://geoclue.freenode.org GeoClue] geospatial framework. [http://bergie.iki.fi Weblog]
