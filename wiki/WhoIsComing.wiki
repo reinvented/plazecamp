@@ -16,4 +16,4 @@ I've used Plazes from relatively early on, intermittently at least. I did my fir
 
 === Henri Bergius ===
 
-I've been using Plazes as part of my geoweb infrastructure for a while now. In addition, I have integrated it with the [http://www.midgard-project.org/ Midgard] [http://en.wikipedia.org/wiki/GeoCMS GeoCMS], written [http://downloads.maemo.org/product/OS2007/maemoplazer/ MaemoPlazer] plazer for Nokia's mobile Linux platform and contributed to the [http://geoclue.freenode.org GeoClue] geospatial framework. [http://bergie.iki.fi Weblog]
+I've been using Plazes as part of my geoweb infrastructure for a while now. In addition, I have integrated it with the [http://www.midgard-project.org/ Midgard] [http://en.wikipedia.org/wiki/GeoCMS GeoCMS], written [http://downloads.maemo.org/product/OS2007/maemoplazer/ MaemoPlazer] plazer for Nokia's mobile Linux platform and contributed to the [http://geoclue.freedesktop.org GeoClue] geospatial framework. [http://bergie.iki.fi Weblog]
