@@ -17,3 +17,9 @@ I've used Plazes from relatively early on, intermittently at least. I did my fir
 === Henri Bergius ===
 
 I've been using Plazes as part of my geoweb infrastructure for a while now. In addition, I have integrated it with the [http://www.midgard-project.org/ Midgard] [http://en.wikipedia.org/wiki/GeoCMS GeoCMS], written [http://downloads.maemo.org/product/OS2007/maemoplazer/ MaemoPlazer] plazer for Nokia's mobile Linux platform and contributed to the [http://geoclue.freedesktop.org GeoClue] geospatial framework. [http://bergie.iki.fi Weblog]
+
+=== Tilmann Singer ===
+
+Working at Plazes since 2 years on the various aspects of backend development and concept. Involved in creation of the API and looking forward to collect and where possible implement the feedback on PlazeCamp?. When there is time I would like to make the kplazer (with the kde ruby bindings) actually useful for distribution, for all the millions of Plazes KDE users out there.
+
+http://plazes.com/whereis/til [http://tils.net Personal Website] mailto:til@plazes.com
