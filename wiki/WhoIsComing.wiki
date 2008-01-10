@@ -24,3 +24,9 @@ I've been using Plazes as part of my geoweb infrastructure for a while now. In a
 Working at Plazes since 2 years on the various aspects of backend development and concept. Involved in creation of the API and looking forward to collect and where possible implement the feedback on PlazeCamp?. When there is time I would like to make the kplazer (with the kde ruby bindings) actually useful for distribution, for all the millions of Plazes KDE users out there.
 
 http://plazes.com/whereis/til [http://tils.net Personal Website] mailto:til@plazes.com
+
+=== Stefan Kellner ===
+
+I'm one of the founders of Plazes and did all the coding until beginning of 2006. The first prototype of Plazes (end of 2004) already had an API to enable anybody to use our data and write custom Plazers. The new API is a big achievement and I hope that it will motivate developers making use of Plazes in many different ways. I'm looking forward to Plaze(Dev)Camp to get all the feedback from you.
+
+http://plazes.com/whereis/stefan mailto:stefan@plazes.com
