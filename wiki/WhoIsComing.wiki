@@ -30,3 +30,9 @@ http://plazes.com/whereis/til [http://tils.net Personal Website] mailto:til@plaz
 I'm one of the founders of Plazes and did all the coding until beginning of 2006. The first prototype of Plazes (end of 2004) already had an API to enable anybody to use our data and write custom Plazers. The new API is a big achievement and I hope that it will motivate developers making use of Plazes in many different ways. I'm looking forward to Plaze(Dev)Camp to get all the feedback from you.
 
 http://plazes.com/whereis/stefan mailto:stefan@plazes.com
+
+=== Alper Çugun ===
+
+I'm a Dutch programmer and also an early user of Plazes and loved it. A couple of years ago I wrote a Dashboard widget for it and I would like to make that work again under the new API.
+
+http://plazes.com/whereis/illustir
