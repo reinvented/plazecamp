@@ -1,0 +1,21 @@
+#summary Things the Plazes API can't do right now, but maybe it could someday...
+
+Use this page to document feature requests for the Plazes API.
+
+==Latitude/Longitude Parameter for GET /plazes.xml==
+
+===Requested By===
+
+[http://ruk.ca/ Peter Rukavina]
+
+===Feature Description===
+
+Currently the *GET /plazes.xml* method supports only the *q* parameter (which does a keyword search of name, address, zip_code, city, state (and full state name), country_code (and country names) category and tags fields) and the *mac_address* parameter.
+
+There is, however, no way to pass a geographic point (latitude/longitude) as a parameter, allowing one to say, in effect, "here is where I am, show me all the nearby Plazes."
+
+===Why this would be useful===
+
+Having such a parameter would allow for experiments with mobile device/GPS integration -- for example, creating an applocation for a GPS-enabled mobile device that could provide a location-aware list of nearby plazes, perhaps filtered by category.
+
+It would also allow for web-based mapping mash-ups that pass the centre point of the map, get back a collection of Plazes, and map them.
