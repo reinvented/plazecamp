@@ -1,6 +1,8 @@
 #summary Things the Plazes API can't do right now, but maybe it could someday...
 
-Use this page to document feature requests for the Plazes API.
+Use this page to document feature requests for the [http://plazes.com/api/docs Plazes API].  Try to be as descriptive as possible with your feature request, and include a use case if possible.
+
+Please note that, in general, the new Plazes API is considerably more 'atomic' than the old one -- for example, some methods will return you a reference to a Plazes users' ID which you then have to use to make a second API call to get their user details. This 'atomicity' was a deliberate design decision, and while it pushes some of the application logic out into your own application, it also makes the API much simpler and more general-purpose.
 
 ==Latitude/Longitude Parameter for GET /plazes.xml==
 
