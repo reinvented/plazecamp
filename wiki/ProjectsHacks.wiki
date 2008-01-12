@@ -5,14 +5,12 @@
 Use your present Plaze location to search for events on upcoming org
  [http://www.lancewicks.com/plazecamp2008/plazes1.txt  Source PHP] / [http://www.lancewicks.com/plazecamp2008/plazes1.php  Example ]
 
-This quick hack outputs XML (so look at the source of the page produced), needs tidying up. The is a second file called plz_conf.php that contains 
+This quick hack outputs XML (so look at the source of the page produced), needs tidying up. The is a second file called plz_conf.php that contains:
+{{{
 <?php
 // config file
-
 $plz_id="user";
 $plz_pass="pass";
-
 $api_upcoming = "key from Yahoo";
-
-
 ?>
+}}}
