@@ -28,7 +28,7 @@ It would also allow for web-based mapping mash-ups that pass the centre point of
 [http://till.klampaeckel.de Till Klampaeckel]
 
 ===Feature Description===
-Oauth is used to allow users to interact with applications without having them to supply their username/password combination. Typical use cases include widgets, desktop apps and so on. For a more detailed explaination see [http://oauth.net/ oauth.net] :)
+Oauth is used to allow users to interact with applications without having them to supply their username/password combination. Typical use cases include widgets, desktop apps and so on. For a more detailed explaination see [http://oauth.net/ oauth.net] :) It would also improve performance since you wouldn't need to request all resources using SSL.
 
 ===Why this would be useful===
 Users wouldn't need to give out the username/password to third-party apps.
