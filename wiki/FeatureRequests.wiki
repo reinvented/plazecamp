@@ -38,4 +38,10 @@ Users wouldn't need to give out the username/password to third-party apps
 ===Requested by Lance Wicks===
 
 ===Feature Description===
-search for a plaze by postcode or street address.
+The ability to search for a plaze by postcode or street address.
+
+===Why this would be useful===
+When building apps via the API we could find a plaze that pre exists at a physical location.
+
+
+
