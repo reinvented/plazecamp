@@ -4,6 +4,10 @@
 
  * [http://code.google.com/p/servicesplazes/ Services_Plazes] (PEAR-style package to use the API in PHP)
 
+== Graphics, Logos, Icon, Colors ==
+
+ * [http://code.google.com/p/plazecamp/downloads/detail?name=wiki_graphics.zip Collection of Plazes logos, category icons, colour-scheme, etc.]
+
 == Podcasts ==
 
  * [http://blog.plazes.com/?p=217 The Plazes Podcast, Episode Two] is all about the Plazes API and !PlazeCamp.
