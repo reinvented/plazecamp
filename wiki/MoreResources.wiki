@@ -1,5 +1,9 @@
 #summary Links to additional resources about Plazes, the Plazes API and development tools.
 
+== Libraries, Modules, Classes ==
+
+ * [http://code.google.com/p/servicesplazes/ Services_Plazes] (PEAR-style package to use the API in PHP)
+
 == Podcasts ==
 
  * [http://blog.plazes.com/?p=217 The Plazes Podcast, Episode Two] is all about the Plazes API and !PlazeCamp.
