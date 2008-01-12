@@ -21,3 +21,14 @@ There is, however, no way to pass a geographic point (latitude/longitude) as a p
 Having such a parameter would allow for experiments with mobile device/GPS integration -- for example, creating an applocation for a GPS-enabled mobile device that could provide a location-aware list of nearby plazes, perhaps filtered by category.
 
 It would also allow for web-based mapping mash-ups that pass the centre point of the map, get back a collection of Plazes, and map them.
+
+==Oauth authorization==
+
+===Requested By===
+[http://till.klampaeckel.de Till Klampaeckel]
+
+===Feature Description===
+Oauth is used to allow users to interact with applications without having them to supply their username/password combination. Typical use cases include widgets, desktop apps and so on. For a more detailed explaination see [http://oauth.net/ oauth.net] :)
+
+===Why this would be useful===
+Users wouldn't need to give out the username/password to third-party apps.
