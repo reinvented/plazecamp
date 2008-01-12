@@ -12,8 +12,9 @@ i've been using plazes for a couple of years (reboot 7?) and meaning to write pe
 
 === Lance Wicks ===
 
-I've used Plazes from relatively early on, intermittently at least. I did my first Plazes hack last year at HackdayLondon2007, a Plazes to NabazTag bunny PHP script. Recently wrote a quick hack to allow me to set my status via the [http://www/launchy.net/Launchy] application. I wrote it up on [http://www.lancewicks.com/blog/ my blog]. Hoping I won't the sole  English speaker attending PlazeCamp. :)
+I've used Plazes from relatively early on, intermittently at least. I did my first Plazes hack last year at HackdayLondon2007, a Plazes to NabazTag bunny PHP script. Recently wrote a quick hack to allow me to set my status via the [http://www/launchy.net/Launchy] application. I wrote it up on [http://www.lancewicks.com/blog/comments.php?y=07&m=12&entry=entry071221-093346 my blog]. Hoping I won't the sole  English speaker attending PlazeCamp. :)
 Sadly, now will be unable to attend in person, hoping to attend virtually.
+
 
 === Henri Bergius ===
 
