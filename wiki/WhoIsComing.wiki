@@ -37,3 +37,9 @@ http://plazes.com/whereis/stefan mailto:stefan@plazes.com
 I'm a Dutch programmer and also an early user of Plazes and loved it. A couple of years ago I wrote a Dashboard widget for it and I would like to make that work again under the new API.
 
 http://plazes.com/whereis/illustir
+
+=== Till Klampaeckel ===
+
+I live in Berlin, and I'm the author of [http://code.google.com/p/servicesplazes/ Services_Plazes].
+
+[http://plazes.com/whereis/till plazes] [http://merged.till.klampaeckel.de blog] [mailto:klimpong@gmail.com email]
