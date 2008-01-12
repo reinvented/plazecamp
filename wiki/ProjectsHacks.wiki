@@ -1,8 +1,8 @@
 #summary Here's a place for the "results" of PlazeCamp to be linked to...
 
-[mailto:lw@judocoach.com /LanceW] - Plazes <-> Upcoming Hack.
+[mailto:lw@judocoach.com LanceW] - Plazes <-> Upcoming Hack.
 
 Use your present Plaze location to search for events on upcoming org
- [http://www.lancewicks.com/plazecamp2008/plazes1.txt / Source PHP] / [http://www.lancewicks.com/plazecamp2008/plazes1.php / Example ]
+ [http://www.lancewicks.com/plazecamp2008/plazes1.txt  Source PHP] / [http://www.lancewicks.com/plazecamp2008/plazes1.php  Example ]
 
 This quick hack outputs XML (so look at the source of the page produced), needs tidying up.
