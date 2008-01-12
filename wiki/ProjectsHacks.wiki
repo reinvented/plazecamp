@@ -4,10 +4,16 @@
 
 [mailto:lw@judocoach.com LanceW]
 
-Use your present Plaze location to search for events on upcoming org
- [http://www.lancewicks.com/plazecamp2008/plazes1.txt  Source PHP] / [http://www.lancewicks.com/plazecamp2008/plazes1.php  Example ]
+Use your present Plaze location to search for events on upcoming org (xml output) [http://www.lancewicks.com/plazecamp2008/plazes1.php  Example ] /  [http://www.lancewicks.com/plazecamp2008/plazes1.txt  Source PHP]
 
-This quick hack outputs XML (so look at the source of the page produced), needs tidying up. The is a second file called plz_conf.php that contains:
+This quick hack outputs XML (so look at the source of the page produced), needs tidying up (i.e. does not filter dates. 
+
+Use your present Plaze location to search for events on upcoming org (html output) [http://www.lancewicks.com/plazecamp2008/plazes2.php  Example ] /  [http://www.lancewicks.com/plazecamp2008/plazes2.txt  Source PHP]
+
+Quick page of upcoming events on eventful within a 20 miles of your current plaze in the next day. 
+
+
+There is a config file called plz_conf.php that contains:
 {{{
 <?php
 // config file
