@@ -1,6 +1,8 @@
 #summary Here's a place for the "results" of PlazeCamp to be linked to...
 
-[mailto:lw@judocoach.com LanceW] - Plazes <-> Upcoming Hack.
+== Plazes <-> Upcoming Hack ==
+
+[mailto:lw@judocoach.com LanceW]
 
 Use your present Plaze location to search for events on upcoming org
  [http://www.lancewicks.com/plazecamp2008/plazes1.txt  Source PHP] / [http://www.lancewicks.com/plazecamp2008/plazes1.php  Example ]
@@ -14,3 +16,7 @@ $plz_pass="pass";
 $api_upcoming = "key from Yahoo";
 ?>
 }}}
+
+== Wii Plazer ==
+
+[http://ruk.ca/wii]
