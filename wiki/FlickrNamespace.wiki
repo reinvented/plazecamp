@@ -21,3 +21,13 @@ For example:
 {{{plazes:activity_id=5841109}}}
 
 [http://flickr.com/search/?w=all&q=plazes%3Aactivity_id%3D5841109&m=tags]
+
+*plazes:user_id`=[`user_id`]`*
+
+Tag a photo with the Plazes user(s) it's taken by (or of).
+
+For example:
+
+{{{plazes:user_id=1185}}}
+
+[http://flickr.com/search/?w=all&q=plazes%3Auser_id%3D1185&m=tags]
