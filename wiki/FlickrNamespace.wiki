@@ -28,6 +28,6 @@ Tag a photo with the Plazes user(s) it's taken of.
 
 For example:
 
-{{{plazes:user_id=1185}}}
+{{{plazes:user_id=1}}}
 
-[http://flickr.com/search/?w=all&q=plazes%3Auser_id%3D1185&m=tags]
+[http://flickr.com/search/?w=all&q=plazes%3Auser_id%3D1&m=tags]
