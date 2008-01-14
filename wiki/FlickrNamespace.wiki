@@ -2,7 +2,7 @@
 
 Following the [http://www.flickr.com/groups/api/discuss/72157594497877875 Flickr documentation for machine tag format] I propose the following be the standard for tagging Flickr photos with information about their Plaze:
 
-*plazes:id=![plaze_id]*
+*plazes:id`=[`plaze_id`]`*
 
 Tag a photo with the Plaze it's taken at (or taken of).
 
@@ -12,7 +12,7 @@ For example:
 
 [http://flickr.com/search/?w=all&q=plazes%3Aid%3D87873&m=tags]
 
-*plazes:activity_id=[activity_id]*
+*plazes:activity_id`=[`activity_id`]`*
 
 Tag a photo with the Plazes Activity it's taken at (or taken of).
 
