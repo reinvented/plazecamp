@@ -46,3 +46,34 @@ The ability to search for a plaze by postcode or street address.
 ===Why this would be useful===
 When building apps via the API we could find a plaze that pre exists at a physical location.
 
+===Arbitrary environment information to improve suggestions==
+
+===Feature Description===
+Define a general way to describe arbitrary environmental data that a plazes client could potentially gather, in a format that is open so that it does not require changes on the Plazes API side to submit new kinds of data.
+
+The Plazes API should be extended to accept this data on activity creation, and on requests to /plazes.xml to factor it into its computation of relevancy.
+
+The format could be similar to flickr's machine tags which consists of a namespace, a key and a value.
+
+Examples:
+
+{{{
+wlan:essid='My home router'
+wlan:mac_address=00:15:F2:5B:7C:71
+gsm:cell_id=5282
+or even something like this:
+temperature:celsius=19
+}}}
+
+Submitting multiple values for the same namespace:key should be allowed, both when creating activities and when retrieving suggestions. The suggestions algorithm should use the given tags without requiring all of them, so that ie. a plaze created by an activity with
+
+{{{
+wlan:essid=A
+wlan:essid=B
+wlan:essid=C
+}}}
+
+would still be suggested for a request to /plazes.xml?wlan:essid=A&wlan:essid=B&wlan:essid=D
+
+===Why this would be useful===
+It would open up the Plazes service for any kind network identifiers or potentially even other indicators from the environment about the current location of a user. For example a mobile plazer that uses wlan scanning to detect wlan networks in the proximity (which don't need to be open), or a mobile plazer when the phone API allows access to the cellid information.
