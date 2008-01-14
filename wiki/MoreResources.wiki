@@ -1,5 +1,9 @@
 #summary Links to additional resources about Plazes, the Plazes API and development tools.
 
+== Documentation ==
+
+ * [FlickrNamespace Flickr tag namespace for Plazes]
+
 == Libraries, Modules, Classes ==
 
  * [http://code.google.com/p/servicesplazes/ Services_Plazes] (PEAR-style package to use the API in PHP)
