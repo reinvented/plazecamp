@@ -4,7 +4,7 @@
 -- Run this script and it will retrieve your current Plazes activity and create a 
 -- new message, using Mail.app, with a customized signature.
 --
--- Version:		0.1, January 14, 2008
+-- Version:		0.2, January 14, 2008
 -- Author: 		Peter Rukavina (mailto:peter@rukavina.net)
 -- Copyright:	Copyright (c) 2008 by Reinvented Inc.
 -- License:		http://www.fsf.org/licensing/licenses/gpl.txt GNU Public Licens
@@ -26,8 +26,8 @@
 ------------------------------------------------------------------------------------------
 
 -- Plazes account information: enter your Plazes username and password here
-property plazes_username : "ruk"
-property plazes_password : "raichagout"
+property plazes_username : ""
+property plazes_password : ""
 
 -- End of user-configurable parameters -- no need to change anything below unless you want
 -- to customize the email signature that's created
