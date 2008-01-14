@@ -30,8 +30,11 @@ It would also allow for web-based mapping mash-ups that pass the centre point of
 ===Feature Description===
 Oauth is used to allow users to interact with applications without having them to supply their username/password combination. Typical use cases include widgets, desktop apps and so on. For a more detailed explaination see [http://oauth.net/ oauth.net] :) It would also improve performance since you wouldn't need to request all resources using SSL.
 
+*Update:* Instead of using OAuth, one could also use your session API to login and create an ID. This ID could be added into the next request to log someone in without Basic-Auth. The app would need to accept a cookie so for the next API calls, it could look for that cookie and authorize the call based on that. (Food for thought.)
+
 ===Why this would be useful===
 Users wouldn't need to give out the username/password to third-party apps
+
 
 ==Postcode / Address search for plaze ==
 
@@ -42,6 +45,4 @@ The ability to search for a plaze by postcode or street address.
 
 ===Why this would be useful===
 When building apps via the API we could find a plaze that pre exists at a physical location.
-
-
 
