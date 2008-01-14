@@ -24,7 +24,7 @@ For example:
 
 *plazes:user_id`=[`user_id`]`*
 
-Tag a photo with the Plazes user(s) it's taken by (or of).
+Tag a photo with the Plazes user(s) it's taken of.
 
 For example:
 
