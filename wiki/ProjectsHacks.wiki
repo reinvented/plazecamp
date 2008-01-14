@@ -26,3 +26,8 @@ $api_upcoming = "key from Yahoo";
 == Wii Plazer ==
 
 [http://ruk.ca/wii]
+
+== Plazes + Mail.app ==
+
+I've created an 
+[http://plazecamp.googlecode.com/svn/trunk/AppleScript/MailWhereAmI.applescript AppleScript] that creates a new Mail.app message with a signature containing information relevant to the current Plazes activity.
