@@ -46,7 +46,8 @@ The ability to search for a plaze by postcode or street address.
 ===Why this would be useful===
 When building apps via the API we could find a plaze that pre exists at a physical location.
 
-===Arbitrary environment information to improve suggestions==
+==Arbitrary environment information to improve suggestions==
+(suggested by til)
 
 ===Feature Description===
 Define a general way to describe arbitrary environmental data that a plazes client could potentially gather, in a format that is open so that it does not require changes on the Plazes API side to submit new kinds of data.
