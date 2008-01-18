@@ -62,6 +62,7 @@ Examples:
 wlan:essid='My home router'
 wlan:mac_address=00:15:F2:5B:7C:71
 gsm:cell_id=5282
+ip:address=83.199.11.12
 or even something like this:
 temperature:celsius=19
 }}}
